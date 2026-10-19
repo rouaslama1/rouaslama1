@@ -3,12 +3,18 @@
 Final-year Computer Science Engineering student at **ESPRIT** (Business Intelligence & ERP), based in Tunis.
 I build Power BI dashboards, data warehouses and machine learning models, from raw data to the decisions it supports.
 
-🔎 **Looking for a PFE in 2027** in BI and analytics.
+🔎 **Looking for a PFE in 2027** in BI, data engineering and AI.
 
 🌐 **Portfolio:** [roua-slama-portfolio.netlify.app](https://roua-slama-portfolio.netlify.app)
 📫 **Contact:** [LinkedIn](https://linkedin.com/in/roua-slama) · slamaroua10@gmail.com
 
 ---
+
+## What drives me
+
+Data makes me feel like a detective. Every messy dataset is a case: I look for the clues, test my theories, and end up with an answer someone can act on.
+
+That curiosity is pulling me towards **AI, machine learning and deep learning**, and I'm eager to go deeper into them. I've started with the Oracle OCI AI Foundations certification and an introduction to LLMs, and I want my next project to be built around them.
 
 ## What I work with
 
