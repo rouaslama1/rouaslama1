@@ -23,10 +23,13 @@ That curiosity is pulling me towards **AI, machine learning and deep learning**,
 - **Machine learning:** Python, Pandas, Scikit-learn, SHAP, time series forecasting
 - **Development:** React, TypeScript, Node.js, Flask
 
-## Public project
+## Projects
 
-**[ML-WebApp-GROUP2](https://github.com/rouaslama1/ML-WebApp-GROUP2)**: ML Explorer, an interactive machine learning web app (Python, Scikit-learn, Streamlit, SHAP) with automated preprocessing, multi-model comparison and hyperparameter tuning.
+Each project below has a README with a demo GIF, and the full demo videos are on my [portfolio](https://roua-slama-portfolio.netlify.app).
 
-## Other work
+- **[SprintVision](https://github.com/rouaslama1/sprintvision)**: a Jira analytics platform that turns any Jira export into 11 KPIs, role-based dashboards and actionable insights. Internship project at L-mobile.
+- **[Scouts Grombalia Decision Support System](https://github.com/rouaslama1/scouts-decision-support)**: an end-to-end BI and ML platform for a scout group, with a data warehouse, Power BI dashboards, ML forecasts and a role-based web app. ESPRIT team project.
+- **[Gold Price Forecasting](https://github.com/rouaslama1/gold-price-forecasting)**: six time series models (ARIMA, SARIMA, ETS, NNETAR, LSTM, GRU) compared in an interactive R Shiny dashboard.
+- **[ML-WebApp-GROUP2](https://github.com/rouaslama1/ML-WebApp-GROUP2)**: ML Explorer, an interactive machine learning web app (Python, Scikit-learn, Streamlit, SHAP) with automated preprocessing, multi-model comparison and hyperparameter tuning.
 
-My internship project (SprintVision, a Jira KPI platform), a full BI & ML platform for a scout group, and a gold price forecasting dashboard have demos on my portfolio. Their code is private, so I'm happy to walk through any of them in an interview.
+The code of the first three is private, so I'm happy to walk through any of them in an interview.
