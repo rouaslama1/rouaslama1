@@ -31,5 +31,6 @@ Each project below has a README with a demo GIF, and the full demo videos are on
 - **[Scouts Grombalia Decision Support System](https://github.com/rouaslama1/scouts-decision-support)**: an end-to-end BI and ML platform for a scout group, with a data warehouse, Power BI dashboards, ML forecasts and a role-based web app. ESPRIT team project.
 - **[Gold Price Forecasting](https://github.com/rouaslama1/gold-price-forecasting)**: six time series models (ARIMA, SARIMA, ETS, NNETAR, LSTM, GRU) compared in an interactive R Shiny dashboard.
 - **[ML-WebApp-GROUP2](https://github.com/rouaslama1/ML-WebApp-GROUP2)**: ML Explorer, an interactive machine learning web app (Python, Scikit-learn, Streamlit, SHAP) with automated preprocessing, multi-model comparison and hyperparameter tuning.
+- **[Medical Charges Predictor](https://github.com/rouaslama1/medical-charges-predictor)**: 15 machine learning models compared to predict health insurance charges (CRISP-DM), with the best regressors deployed in a Streamlit app.
 
 The code of the first three is private, so I'm happy to walk through any of them in an interview.
